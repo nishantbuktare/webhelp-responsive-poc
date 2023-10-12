@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="22.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qspace.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="space.xpr">
+        <folder path=".circleci/"/>
+        <folder path="ope/"/>
+        <folder path="publishing/"/>
+        <folder path="sample/"/>
+        <file name=".gitignore"/>
+        <file name=".travis.yml"/>
+        <file name="deploy.sh"/>
+        <file name="publish.sh"/>
+        <file name="README.md"/>
+        <file name="space.xpr"/>
+    </projectTree>
+</project>
